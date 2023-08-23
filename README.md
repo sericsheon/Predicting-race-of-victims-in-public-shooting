@@ -1,3 +1,5 @@
+The code is used for analysis and visualization for presentation.
+
 # Predicting-race-of-victims-in-public-shooting
 Using different machine learning techniques to predict race of victim inn fatal shooting
 
